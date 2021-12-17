@@ -11,6 +11,10 @@ Scikit-Learn
 
 Shap
 
+# Use
+
+See the ShapHT/Feature_Selection/Classification_experiment.py (or Regression_experiment.py). 
+
 # Reference
 
 If you are using this code please cite our paper.
