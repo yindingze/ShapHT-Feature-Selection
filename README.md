@@ -13,7 +13,7 @@ Shap
 
 # Use
 
-See the ShapHT/Feature_Selection/Classification_experiment.py (or Regression_experiment.py). 
+See the Feature_Selection/Classification_experiment.py (or Regression_experiment.py). 
 
 # Reference
 
